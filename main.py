@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Welcome App", page_icon="👋")
 
 # Display a welcome message
-st.title("👋 Welcome to My Streamlit App!")
+st.title("👋 Welcome to My Streamlit App buddy!")
 st.write("Hello there! This is a simple Streamlit app displaying a welcome message.")
 
 # Add some extra UI
